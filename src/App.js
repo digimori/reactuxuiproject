@@ -1,13 +1,13 @@
-import React from "react";
-
 // Emmet equivelent = rafce  - Needs ES7 React snippets installed
 
-const App = () => {
-    return (
-        <div>
+import React from 'react'
 
-        </div>
-    )
+const App = () => {
+  return (
+    <div>
+        <h1>GPT-3</h1>
+    </div>
+  )
 }
 
 export default App

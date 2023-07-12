@@ -2,6 +2,10 @@
 
 import React from 'react'
 
+/* This is a way to import everything from the index.js compiled components
+import { Article, Brand, Cta, Feature, Navbar } from './components';
+*/
+
 const App = () => {
   return (
     <div>

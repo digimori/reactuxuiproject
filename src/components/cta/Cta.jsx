@@ -3,7 +3,9 @@ import './cta.css';
 
 const Cta = () => {
   return (
-    <div>Cta</div>
+    <div className='gpt3__cta'>
+      
+    </div>
   )
 
 }
